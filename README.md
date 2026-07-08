@@ -129,11 +129,13 @@ This gait improves stability because three legs remain in contact with the groun
 Robot-Dog-Mechanical-Design/
 │
 ├── README.md
-├── RobotDog.stl
+├── robotgog.stl
+├── robotgog.png
 ├── front.png
 ├── side.png
 ├── top.png
 └── isometric.png
+
 ```
 
 ---
